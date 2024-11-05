@@ -43,3 +43,5 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 ## Description 
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+
+In our project, we used a dataset to gain information about our user story. Our user story is; As a manager for one of the popular shoe seller (Nike), we want to gain as much profit as we can. To do so we must find feedback from users and factories that produce these shoes. The project addressed our user's goal by finding out the listing and sales price to find the shoes that have potential or that can be benefitted from.
